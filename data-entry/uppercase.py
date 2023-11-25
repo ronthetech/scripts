@@ -10,9 +10,9 @@ from split import split_string
 
 # Driver Function
 if __name__ == "__main__":
-  # user_input = input()
+  user_input = input()
   # tests
-  user_input = "a100A Some Color/Another Color"
+  # user_input = "a100A Some Color/Another Color"
   # user_input2 = "100 Some Color/Another Color/Thir. Color"
 
   # Splitting the string
