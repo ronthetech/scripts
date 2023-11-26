@@ -15,7 +15,7 @@ Type in a string as input, typically a color code followed by some color combina
 
 ```sh
 C:\> python uppercase.py
-a100A Some Color/Another Color
+a100A Some Color/Another Color/Third Color
 ```
 
 Hit enter and the output will look like:
@@ -28,7 +28,7 @@ a100A SOME COLOR/ANOTHER COLOR/THIRD COLOR
 
 ```sh
 C:\> python lowercase.py
-a100A SOME COLOR/ANOTHER COLOR/THIRD COLOR
+a100A SOME COLOR/ANOTHER COLOR
 ```
 
 Hit enter and the output will look like:
